@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap");
+
+$background : sandybrown;
+$myfont : "Manrope", sans-serif !important;
+$fontM : medium;
+$fontXXL : xx-large;
+
+body {
+  background-color: $background;
+  font-family: $myfont;
+}
+
+h2 {
+  font-size: $fontXXL;
+}
+
+p,a,i {
+  font-size: $fontM ;
+}
+
+.main-container{
+  margin-top: 150px;
+}
