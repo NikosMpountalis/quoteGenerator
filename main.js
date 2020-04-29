@@ -31,6 +31,7 @@ $(document).ready(function () {
     "#39F6B1",
     "#39F0F6",
   ];
+  
   let i = 0;
 
   $("#new-quote").click(function () {
